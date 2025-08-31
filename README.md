@@ -1,4 +1,4 @@
-# Kayode “Mhista” Owoseni (Malkayne) — Backend Engineer (PHP / Laravel)
+# Kayode Owoseni — Backend Engineer (PHP / Laravel)
 
 > I build backend systems and developer-facing platforms, and I ship full-stack features when needed.
 > Focus areas: **Laravel**, APIs, platform architecture, and clean, maintainable code.
