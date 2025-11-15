@@ -75,12 +75,3 @@
 [![](https://visitcount.itsvg.in/api?id=Malkayne\&icon=0\&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
----
-
-If you'd like, I can also:
-✅ Make it more professional
-✅ Add sections like Projects, Experience, or Recent Work
-✅ Make the About Me more engaging
-
-Just tell me!
