@@ -1,5 +1,3 @@
-# 💫 About Me
-
 ## **Kayode Owoseni — Backend Engineer (PHP / Laravel)**
 
 > I build backend systems and developer-facing platforms, and I ship full-stack features when needed.
@@ -30,7 +28,7 @@
 
 ---
 
-# 💻 Tech Stack (Badges)
+## **Tech Stack (Badges)**
 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge\&logo=php\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge\&logo=javascript\&logoColor=%23F7DF1E)
@@ -59,9 +57,9 @@
 
 ---
 
-# 📊 GitHub Stats
+## **GitHub Stats**
 
-![](https://nirzak-streak-stats.vercel.app/?user=Malkayne&theme=dark&hide_border=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Malkayne&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Malkayne&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
