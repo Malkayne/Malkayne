@@ -21,16 +21,11 @@
 * WhatsApp: **(+234) 906 551 3819**
 * GitHub: **github.com/Malkayne**
 * Open to collaboration, contract backend work, or mentoring junior devs.
-
-*Thanks for stopping by!*
-
----
-
-## 🌐 Socials
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://linkedin.com/in/kayode-owoseni-a79100202)
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok\&logoColor=white)](https://tiktok.com/@malkayne)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X\&logoColor=white)](https://x.com/only_malkayne)
+
+*Thanks for stopping by!*
 
 ---
 
